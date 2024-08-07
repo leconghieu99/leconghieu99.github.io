@@ -1,4 +1,4 @@
-baseURL: https://hossainemruz.github.io
+baseURL: https://leconghieu99.github.io
 
 languageCode: en-us
 title: "Emruz Hossain"
@@ -58,7 +58,7 @@ params:
   #   favicon: /images/site/favicon.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hossainemruz/hossainemruz.github.io
+  gitRepo: https://github.com/leconghieu99/leconghieu99.github.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
